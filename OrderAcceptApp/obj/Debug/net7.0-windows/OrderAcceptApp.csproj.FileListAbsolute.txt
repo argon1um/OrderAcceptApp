@@ -47,3 +47,5 @@ C:\Users\ItzArg\source\repos\OrderAcceptApp\OrderAcceptApp\bin\Debug\net7.0-wind
 C:\Users\ItzArg\source\repos\OrderAcceptApp\OrderAcceptApp\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\ItzArg\source\repos\OrderAcceptApp\OrderAcceptApp\obj\Debug\net7.0-windows\OrderAcceptApp.csproj.AssemblyReference.cache
 C:\Users\ItzArg\source\repos\OrderAcceptApp\OrderAcceptApp\obj\Debug\net7.0-windows\OrderAcceptApp.csproj.CopyComplete
+C:\Users\ItzArg\source\repos\OrderAcceptApp\OrderAcceptApp\bin\Debug\net7.0-windows\Python.Runtime.dll
+C:\Users\ItzArg\source\repos\OrderAcceptApp\OrderAcceptApp\obj\Debug\net7.0-windows\OrderAcceptApp.sourcelink.json
